@@ -11,6 +11,7 @@
 1-Create a folder<br>
 2-copy all the three file into the folder<br>
 3-Open the VS code editor<br>
-4-First run the javac Main.java command<br>
-5-Then run the java Main command to get the output<br>
+4-Open the terminal
+5-First run the javac Main.java command<br>
+6-Then run the java Main command to get the output<br>
 
