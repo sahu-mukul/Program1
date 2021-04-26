@@ -9,7 +9,7 @@
 <h2>#-------------</h2>
 <h2>#instructions to run the code.</h2>
 1-Create a folder<br>
-2-copy all the three file into the folder<br>
+2-copy all the three file  Main.java , input.txt,output.txt into the folder<br>
 3-Open the VS code editor<br>
 4-Open the terminal<br>
 5-First run the javac Main.java command<br>
